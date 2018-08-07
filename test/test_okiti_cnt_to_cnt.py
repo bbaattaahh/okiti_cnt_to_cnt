@@ -2,8 +2,8 @@ import os
 
 from mne.io.cnt import read_raw_cnt
 
-from okiti_cnt_to_cnt import okiti_cnt_to_cnt
-from okiti_cnt_to_cnt import _is_it_okiti_cnt
+from okiti_cnt_to_cnt.okiti_cnt_to_cnt import okiti_cnt_to_cnt
+from okiti_cnt_to_cnt.okiti_cnt_to_cnt import _is_it_okiti_cnt
 
 
 def test_okito_cnt_to_cnt__not_okiti_cnt_input():

@@ -15,9 +15,9 @@ It returns only a flag which shows it did anything or not.
 
 If you don't need the original cnt file just give your cnt file name to the function.
 
-If you want to preserve the original file specify the "new_file_name' argument as well.
+If you want to preserve the original file specify the _new_file_name_ argument as well.
 
-If the input a valid cnt file the function will return
+If the input is a valid cnt file the function will return false value.
 
 
 ## Description
